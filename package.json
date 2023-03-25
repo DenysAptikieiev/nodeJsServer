@@ -1,0 +1,15 @@
+{
+  "name": "nodejsserver",
+  "version": "1.0.0",
+  "description": "nodeJS server REST",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aptikieiev Denys",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
